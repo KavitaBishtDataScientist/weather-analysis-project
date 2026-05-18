@@ -20,7 +20,7 @@ This project performs a rigorous and structured **Exploratory Data Analysis (EDA
 ├── visualization/
 │   └── [plots_and_charts.png]         # Generated Analysis Plots & Visualizations
 └── README.md                          # Professional Project Documentation
-## 🎯 Objectives
+🎯 Objectives
 Data Structure Auditing: Understand data distributions, types, and summary statistics.
 
 Univariate Analysis: Analyze individual meteorological variables to detect skewness and extreme events.
@@ -31,7 +31,7 @@ Multivariate Analysis: Explore combined effects of multiple variables on weather
 
 Actionable Insights: Translate statistical findings into real-world business impacts.
 
-**🧹 Data Cleaning & Preprocessing**
+🧹 Data Cleaning & Preprocessing
 Missing Value Treatment: Handled missing profiles dynamically inside target columns.
 
 Type Casting: Ensured correct data types across all atmospheric dimensions.
@@ -40,7 +40,7 @@ Deduplication: Eradicated duplicate sequences and data inconsistencies.
 
 Feature Engineering: Structured time-based variables into clear Month and Season buckets.
 
-## 🧠 Statistical Hypothesis Testing (Scientific Validation)
+ 🧠 Statistical Hypothesis Testing (Scientific Validation)
 To elevate the analytical depth of this project, the following statistical hypotheses were formulated and tested:
 
 🔬 Hypothesis 1: Temperature and Precipitation Type
@@ -79,7 +79,7 @@ Finding: Reject H
 ​
  . Strong evidence of highly predictable, cyclic seasonal waveforms.
 
-## 📊 Exploratory Data Analysis (EDA) & Insights
+ 📊 Exploratory Data Analysis (EDA) & Insights
 🔹 1. Univariate Analysis
 Temperature: Exhibits a strong, expected variation aligned with annual seasonal boundaries.
 
@@ -87,15 +87,15 @@ Precipitation: Highly imbalanced distribution, showing heavy dominance of rain o
 
 Anomalies: Skewed distributions highlight localized occurrences of extreme weather events.
 
-## 🔹 2. Bivariate Analysis
+ 🔹 2. Bivariate Analysis
 Temperature vs. Precipitation Type: Data strictly validates that snow events are clustered near or below freezing points, while rain dominates higher temperatures.
 
 Month vs. Temperature: Shows a continuous, smooth gradient increase transitioning from Winter to Summer months.
 
-## 🔹 3. Multivariate Analysis
+ 🔹 3. Multivariate Analysis
 Weather behavior operates as a complex network: [Winter + Low Temperature] statistically dictates Snow, whereas [Summer + High Temperature] locks in Rain. Transitional seasons exhibit higher variance and mixed profiles.
 
-## 📈 Charts & Visualizations
+ 📈 Charts & Visualizations
 (Plots are preserved in the visualization/ directory)
 
 📊 Temperature Distribution Plot (Shows normality and atmospheric variance)
@@ -106,7 +106,7 @@ Weather behavior operates as a complex network: [Winter + Low Temperature] stati
 
 📊 Monthly Temperature Trend Line (Captures annual cyclic waveforms)
 
-## 💼 Business Impact & Applications
+ 💼 Business Impact & Applications
 Predictive Forecasting: Improves core accuracy benchmarks for localized weather models.
 
 Disaster Preparedness: Enhances early warning systems for heavy snowfall or flood-inducing rain.
@@ -117,11 +117,11 @@ Agritech Support: Provides data-driven insights for crop planning and harvesting
 
 Energy Demand Prediction: Empowers smart grids to forecast heating/cooling loads based on temperature trends.
 
-## 🧠 Conclusion
+ 🧠 Conclusion
 This EDA reveals that weather behavior is strongly influenced by temperature and seasonal changes. Snow is mainly associated with low temperatures in winter, while rain dominates warmer conditions.
 Overall, the dataset shows clear and structured patterns, making it suitable for further predictive modeling and machine learning applications.
 
-## 📌 Author
+ 📌 Author
 •	Kavita Bisht
 
 
