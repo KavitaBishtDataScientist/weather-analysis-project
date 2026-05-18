@@ -31,7 +31,7 @@ Multivariate Analysis: Explore combined effects of multiple variables on weather
 
 Actionable Insights: Translate statistical findings into real-world business impacts.
 
-## 🧹 Data Cleaning & Preprocessing
+**🧹 Data Cleaning & Preprocessing**
 Missing Value Treatment: Handled missing profiles dynamically inside target columns.
 
 Type Casting: Ensured correct data types across all atmospheric dimensions.
